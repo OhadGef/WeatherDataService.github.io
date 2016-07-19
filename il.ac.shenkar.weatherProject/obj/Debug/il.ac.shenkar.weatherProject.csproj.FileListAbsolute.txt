@@ -1,0 +1,24 @@
+c:\users\ohad\documents\visual studio 2015\Projects\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherProject\bin\Debug\il.ac.shenkar.weatherProject.exe.config
+c:\users\ohad\documents\visual studio 2015\Projects\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherProject\obj\Debug\il.ac.shenkar.weatherProject.Properties.Resources.resources
+c:\users\ohad\documents\visual studio 2015\Projects\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherProject\obj\Debug\il.ac.shenkar.weatherProject.csproj.GenerateResource.Cache
+c:\users\ohad\documents\visual studio 2015\Projects\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherProject\bin\Debug\il.ac.shenkar.weatherProject.exe
+c:\users\ohad\documents\visual studio 2015\Projects\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherProject\bin\Debug\il.ac.shenkar.weatherProject.pdb
+c:\users\ohad\documents\visual studio 2015\Projects\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherProject\obj\Debug\il.ac.shenkar.weatherProject.exe
+c:\users\ohad\documents\visual studio 2015\Projects\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherProject\obj\Debug\il.ac.shenkar.weatherProject.pdb
+c:\users\ohad\documents\visual studio 2015\Projects\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherProject\obj\Debug\il.ac.shenkar.weatherProject.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\WeatherDataService-master\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherProject\bin\Debug\il.ac.shenkar.weatherProject.exe.config
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\WeatherDataService-master\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherProject\obj\Debug\il.ac.shenkar.weatherProject.exe
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\WeatherDataService-master\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherProject\obj\Debug\il.ac.shenkar.weatherProject.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\WeatherDataService-master\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherProject\bin\Debug\il.ac.shenkar.weatherProject.exe
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\WeatherDataService-master\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherProject\bin\Debug\il.ac.shenkar.weatherProject.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\WeatherDataService-master\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherProject\obj\Debug\il.ac.shenkar.weatherProject.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\WeatherDataService-master\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherProject\obj\Debug\il.ac.shenkar.weatherProject.Properties.Resources.resources
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\WeatherDataService-master\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherProject\obj\Debug\il.ac.shenkar.weatherProject.csproj.GenerateResource.Cache
+C:\Users\Ohad\Desktop\WeatherDataService\WeatherDataService.github.io\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherProject\bin\Debug\il.ac.shenkar.weatherProject.exe.config
+C:\Users\Ohad\Desktop\WeatherDataService\WeatherDataService.github.io\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherProject\obj\Debug\il.ac.shenkar.weatherProject.exe
+C:\Users\Ohad\Desktop\WeatherDataService\WeatherDataService.github.io\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherProject\obj\Debug\il.ac.shenkar.weatherProject.pdb
+C:\Users\Ohad\Desktop\WeatherDataService\WeatherDataService.github.io\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherProject\bin\Debug\il.ac.shenkar.weatherProject.exe
+C:\Users\Ohad\Desktop\WeatherDataService\WeatherDataService.github.io\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherProject\bin\Debug\il.ac.shenkar.weatherProject.pdb
+C:\Users\Ohad\Desktop\WeatherDataService\WeatherDataService.github.io\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherProject\obj\Debug\il.ac.shenkar.weatherProject.csprojResolveAssemblyReference.cache
+C:\Users\Ohad\Desktop\WeatherDataService\WeatherDataService.github.io\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherProject\obj\Debug\il.ac.shenkar.weatherProject.Properties.Resources.resources
+C:\Users\Ohad\Desktop\WeatherDataService\WeatherDataService.github.io\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherProject\obj\Debug\il.ac.shenkar.weatherProject.csproj.GenerateResource.Cache

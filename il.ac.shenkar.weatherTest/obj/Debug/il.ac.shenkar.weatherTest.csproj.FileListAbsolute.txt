@@ -1,0 +1,16 @@
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\WeatherDataService-master\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherTest\bin\Debug\il.ac.shenkar.weatherTest.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\WeatherDataService-master\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherTest\bin\Debug\il.ac.shenkar.weatherTest.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\WeatherDataService-master\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\WeatherDataService-master\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherTest\obj\Debug\il.ac.shenkar.weatherTest.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\WeatherDataService-master\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherTest\obj\Debug\il.ac.shenkar.weatherTest.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\WeatherDataService-master\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherTest\obj\Debug\il.ac.shenkar.weatherTest.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\WeatherDataService-master\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherTest\bin\Debug\il.ac.shenkar.weatherProject.exe
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\WeatherDataService-master\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherTest\bin\Debug\il.ac.shenkar.weatherProject.pdb
+C:\Users\Ohad\Desktop\WeatherDataService\WeatherDataService.github.io\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherTest\bin\Debug\il.ac.shenkar.weatherTest.dll
+C:\Users\Ohad\Desktop\WeatherDataService\WeatherDataService.github.io\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherTest\bin\Debug\il.ac.shenkar.weatherTest.pdb
+C:\Users\Ohad\Desktop\WeatherDataService\WeatherDataService.github.io\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherTest\bin\Debug\il.ac.shenkar.weatherProject.exe
+C:\Users\Ohad\Desktop\WeatherDataService\WeatherDataService.github.io\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Ohad\Desktop\WeatherDataService\WeatherDataService.github.io\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherTest\bin\Debug\il.ac.shenkar.weatherProject.pdb
+C:\Users\Ohad\Desktop\WeatherDataService\WeatherDataService.github.io\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherTest\obj\Debug\il.ac.shenkar.weatherTest.csprojResolveAssemblyReference.cache
+C:\Users\Ohad\Desktop\WeatherDataService\WeatherDataService.github.io\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherTest\obj\Debug\il.ac.shenkar.weatherTest.dll
+C:\Users\Ohad\Desktop\WeatherDataService\WeatherDataService.github.io\il.ac.shenkar.weatherProject\il.ac.shenkar.weatherTest\obj\Debug\il.ac.shenkar.weatherTest.pdb
