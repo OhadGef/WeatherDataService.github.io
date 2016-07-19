@@ -1,0 +1,15 @@
+* { padding: 0; margin: 0;  }
+
+body { font-family: Arial; font-size: 16px; font-weight: 500; width: 990px;margin: auto; }
+
+header {text-align: center; margin:auto ;border:gray solid; border-width: 3px; height: 60px;margin-top: 10px; margin-bottom: 15px;}
+header h1 {margin:auto;}
+
+nav {height: 550px; border:gray solid;background-color: #dddddd;margin-bottom: 15px;}
+nav #api-explanation {b display: inline-block; ;margin-left: 15px;margin-top: 10px;margin-bottom: 15px;}
+nav #api-explanation p{font-size: 15px;border:1px gray solid;width: 940px;padding-left: 15px;padding-bottom: 15px;}
+nav #api-explanation .tab{margin-left:80px;}
+nav #api-explanation .or{color: red;font-weight: bold;}
+nav .comments {color: #319409;}
+
+footer{font-size: 19px; background-color : #191919; height :30px; text-align : center; color:#f9f8f2; padding-top: 15px;margin:auto; margin-bottom: 15px;  }

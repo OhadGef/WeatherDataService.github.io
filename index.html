@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" media="screen" href="./style.css">
+</head>
+
+<body>
+	<header>
+		<h1> C# Project Weather Data Service </h1> 
+	</header>
+	<nav>
+		<section id="peview">
+		</section> 
+		<section id="api-explanation">
+		<h3> introduction:</h3>
+
+		<p><br>We are students in Shenkar College Of Engineering.<br>
+		   This is a final project in C# course that we took in the Third year.<br>
+		   In this project we have developed a library that provides Weather Data Service for other developers,<br>
+		   The developer need to choose the location of the country and city and the code gets the weather data from 2 APIs and show it to the Concole. <br> <br>
+		<br>
+		<b>github URL:</b><a href="https://github.com/OhadGef/WeatherDataService.github.io">https://github.com/OhadGef/WeatherDataService.github.io </a>
+		<br><br>
+		<b>YouTube URL:</b> <a href="https://www.youtube.com/edit?video_id=ceb9nRmohLE">https://github.com/OhadGef/WeatherDataService.github.io </a>
+
+		</p>
+		
+		
+		<br><br>
+
+		<h3> API exemple:</h3>
+		<p>
+			<br>
+			<span class="comments">	// set a new Location for the Weather  </span>
+			<br>
+			<b>Location</b> location = new Location();<br>
+            location.cityName = "Tel Aviv";<br>
+            location.countryName = "IL";<br>
+			<br>
+			<span class="comments">	// chosse the web site of tht API (WORLDWEATHERONLINE or OPENMAP)</span>
+			<br>
+            <b>IWeatherDataService</b> service =<br> <span class="tab"> WeatherDataServiceFactory</span>
+            <br><span class="tab">.GetWeatherDataService(WeatherDataServiceFactory.ServiceType.WORLDWEATHERONLINE <span class="or">OR</span> OPENMAP);</span><br>
+			<br>	           
+            <b>WeatherData</b> weatherData = service.GetWeatherData(location);<br>
+            Console.WriteLine(weatherData.ToString());
+
+        </p>
+        <br><br>
+		</section>
+
+	</nav>
+	<footer>
+		<h6>   Adam Shwartz & Ohad Gefen | Shenkar College Of Engineering & Design 2016 </h6>
+	</footer>
+
+</body>
+
+
+</html>
